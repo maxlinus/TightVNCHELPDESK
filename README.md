@@ -44,7 +44,7 @@ https://www.autoitscript.com/site/
 после закрытия helpdesk Убедитесь что порты снаружи закрыты. 
 
 
-Для работы потребуется SSH Server
+# Для работы потребуется SSH Server
 
 Если SSH-сервер у вас не предустановлен, устанавливаем на примере Debian GNU/Linux:
 
@@ -52,7 +52,8 @@ apt-get install openssh-server
 
 Добавляем в конфигурацию ‘/etc/ssh/sshd_config’ в конце файла:
 
-# ssh reverse tunnel bind to all interfaces
+
+;ssh reverse tunnel bind to all interfaces
 
 GatewayPorts yes
 
@@ -78,3 +79,8 @@ iptables -A INPUT -p TCP --dport 20000:60000 -j ACCEPT
 
 Взято у https://zerolab.net/
 
+kitty создать сессию для покдлючения к ssh , сохранить в \InstantSupport_Files\Sessions
+
+В файл repeaterData.au3 указать данные для подключения (ip, port, пароль из файлы сесии kitty)
+
+Пароль берется в kitty, пример "Password\66133Pgfgf8zp0dgfdgfduIe0xKEUq7iwQP\"
