@@ -4,7 +4,7 @@ SCPAutoPwd\0\
 ACSinUTF\0\
 Comment\\
 CtrlTabSwitch\0\
-Password\nv63xjiXRtKZdVgfgfgfgZbWl3gfrxifwj\
+Password\nv63xjiXRtKZdVgfgffgfg4gfgfxifwj\
 ForegroundOnBell\0\
 SaveWindowPos\0\
 WindowState\0\
@@ -291,5 +291,5 @@ LogFlush\1\
 LogFileClash\-1\
 LogType\0\
 LogFileName\putty.log\
-HostName\192.144.7.155\
+HostName\192.193.194.11\
 Present\1\
