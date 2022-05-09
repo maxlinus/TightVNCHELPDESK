@@ -7,11 +7,9 @@ https://www.autoitscript.com/site/
 1.выдаёт Пользователю только ID
 
 
-![alt text](https://github.com/maxlinus/TightVNCHELPDESK/blob/master/image/1.png)
-
+![alt text](https://github.com/maxlinus/TightVNCHELPDESK/blob/master/image/7.jpg)
 
 при подключении у пользователя появляется окно с подтверждением.
-
 
 ![alt text](https://github.com/maxlinus/TightVNCHELPDESK/blob/master/image/2.png)
 
