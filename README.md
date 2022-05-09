@@ -17,7 +17,7 @@ https://www.autoitscript.com/site/
  
  Подключение
  
-![alt text](https://github.com/maxlinus/TightVNCHELPDESK/blob/master/image/7.jpg) 
+![alt text](https://github.com/maxlinus/TightVNCHELPDESK/blob/master/image/8.jpg) 
  
  
 Еще для подключения можно использовать любой VNC Client
