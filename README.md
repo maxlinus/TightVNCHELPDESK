@@ -81,6 +81,7 @@ passwd helper
 iptables -A INPUT -p TCP --dport 20000:60000 -j ACCEPT
 
 Взято у https://zerolab.net/
+------------------------------------------------------------
 
 kitty создать сессию для покдлючения к ssh , сохранить в \InstantSupport_Files\Sessions
 
